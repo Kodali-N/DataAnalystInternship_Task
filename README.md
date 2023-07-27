@@ -6,7 +6,6 @@ Objective of the task is to provide insights with regards with marketing campaig
 ## Datasets
 - Datasets (transformed) can be found [here](https://github.com/Kodali-N/DataAnalystInternship_Task/tree/main/Data)
 - Description of the columns from both the datasets can be found here
-- Datasets can be found [here](https://github.com/Kodali-N/Revenue_insights/tree/main/data)
 
 ## Dashboard
 - Tools used: PowerBI
