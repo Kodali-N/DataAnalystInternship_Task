@@ -1,7 +1,7 @@
 # Data Analyst Internship Task (Omnify)
 
 ## Overview:
-Objective of the task is to provide insights with regards with marketing campaigns (Google Ads and a listing site)
+Objective of the task is to provide insights with regards to marketing campaigns (Google Ads and a listing site)
 
 ## Datasets
 - Datasets (transformed) can be found [here](https://github.com/Kodali-N/DataAnalystInternship_Task/tree/main/Data)
